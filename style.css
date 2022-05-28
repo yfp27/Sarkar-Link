@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.logo  {
+    padding: 10px;
+    position: relative;
+    top: -20px;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    position: relative;
+    overflow: hidden;
+    background-color: #4d4d4d;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: #6c757d;
+    transition: 0.5s;
+    text-align: center;
+    padding: 19px;
+    font-size: 17px;
+    position: relative;
+
+    text-decoration: none;
+}
+li a:hover{
+    color: #fff;
+}
+
+
+.f {
+    display: block;
+    color: white;
+    transition: 0.5s;
+    text-align: center;
+    padding: 19px;
+    margin-top: -4px;
+    font-size: 29px;
+    text-decoration: none;
+}
+.g {
+    margin-top: 12px;
+}
+.home {
+    background: url("dark-servers-center-room-with-computers-storage-systems_117023-894-626w.png") !important;
+    height: 660px;
+    background-size: cover;
+    width: 100%;
+    margin-top: -60px;
+    background-repeat: no-repeat;
+}
+.fd {
+    color: #fff;
+    font-size: 4rem;
+    position: relative;
+    text-align: center;
+    top: 290px;
+}
+.b1 {
+    background: transparent;
+    border: 2px solid #fff;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    transition: 0.5s;
+    padding: 17px;
+    font-family: 'Poppins' , sans-serif;
+    font-size: 19px;
+
+}
+.b1:hover {
+    background-color: #fff;
+   color: #4d4d4d;
+} 
+.bt1 {
+    display: flex;
+    justify-content: center;
+}
+.about h1 p{
+    text-align: center;
+    width: 900px;
+    padding: 5px;
+}
+.about p {
+    width: 60%;
+    text-align: center;
+    margin-left: 300px;
+}
+.service {
+    height: 10px;
+}
+.card_1 {
+    height: 450px;
+    width: 470px;
+    text-align: center;
+    margin: 100px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.card_1 h1 {
+    position: relative;
+    top: -50px;
+}
+h1 {
+    text-align: center;
+}
+.fa-stethoscope {
+    font-size: 100px;
+    text-align: center;
+    color: #7cbd1e;
+}
+.b2 {
+    background: #7cbd1e;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    border: none;
+    transition: 0.5s;
+    padding: 17px;
+    position: relative;
+    top: -30px;
+    font-family: 'Poppins' , sans-serif;
+    font-size: 19px;
+
+}
+.b2:hover {
+    background-color: #517b14;
+   color: #fff;
+} 
+.card_2 {
+    height: 450px;
+    width: 470px;
+    text-align: center;
+    position: relative;
+    left: 500px;
+    top: -550px;
+    margin: 100px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.card_2 h1 {
+    position: relative;
+    top: -50px;
+}
+h1 {
+    text-align: center;
+}
+.fa-plane-departure {
+    font-size: 100px;
+    text-align: center;
+    color: #7cbd1e;
+}
+.b3 {
+    background: #7cbd1e;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    border: none;
+    text-decoration: none;
+    transition: 0.5s;
+    padding: 17px;
+    position: relative;
+    top: 10px;
+    font-family: 'Poppins' , sans-serif;
+    font-size: 19px;
+
+}
+.b3:hover {
+    background-color: #517b14;
+   color: #fff;
+} 
+.card_3 {
+    height: 450px;
+    width: 470px;
+    text-align: center;
+    position: relative;
+    left: 1000px;
+    top: -1100px;
+    margin: 100px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.card_3 h1 {
+    position: relative;
+    top: -50px;
+}
+h1 {
+    text-align: center;
+}
+.fa-computer {
+    font-size: 100px;
+    text-align: center;
+    color: #7cbd1e;
+}
+.b4 {
+    background: #7cbd1e;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    border: none;
+    transition: 0.5s;
+    padding: 17px;
+    position: relative;
+    top: 10px;
+    font-family: 'Poppins' , sans-serif;
+    font-size: 19px;
+
+}
+.b4:hover {
+    background-color: #517b14;
+   color: #fff;
+} 
+.fg {
+    position: relative;
+    top: -1300px;
+    height: 10px;
+}
+.fa-chalkboard-user {
+    font-size: 100px;
+    text-align: center;
+    color: #7cbd1e;
+}
+.fa-print {
+    font-size: 100px;
+    text-align: center;
+    color: #7cbd1e;
+}
+.fa-envelope {
+    font-size: 100px;
+    text-align: center;
+    color: #7cbd1e;
+}
+.b5 {
+    background: #7cbd1e;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    border: none;
+    transition: 0.5s;
+    padding: 17px;
+    position: relative;
+    top: 10px;
+    font-family: 'Poppins' , sans-serif;
+    font-size: 19px;
+
+}
+.b5:hover {
+    background-color: #517b14;
+   color: #fff;
+} 
